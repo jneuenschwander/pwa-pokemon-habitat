@@ -1,0 +1,18 @@
+{
+  "short_name": "PWA pokemon",
+  "name": "PWA pokemon by habitad",
+  "icons": [
+    {
+      "src": "pokeball.png",
+      "type": "image/png",
+      "sizes": "300x300"
+    }
+ 
+  ],
+  "start_url": ".",
+  "scope":"/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "prefer_related_applications": true
+}
